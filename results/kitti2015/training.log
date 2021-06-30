@@ -1,0 +1,75 @@
+[2021-05-06 02:53:58 KITTIloader2015.py:33] INFO     [13, 32, 36, 37, 38, 43, 46, 54, 58, 62, 75, 76, 79, 82, 92, 93, 99, 106, 108, 114, 115, 117, 124, 131, 135, 138, 139, 141, 144, 148, 159, 162, 164, 167, 176, 179, 182, 192, 193, 199]
+[2021-05-06 03:29:00 KITTIloader2015.py:33] INFO     [13, 32, 36, 37, 38, 43, 46, 54, 58, 62, 75, 76, 79, 82, 92, 93, 99, 106, 108, 114, 115, 117, 124, 131, 135, 138, 139, 141, 144, 148, 159, 162, 164, 167, 176, 179, 182, 192, 193, 199]
+[2021-05-06 03:29:12 KITTIloader2015.py:33] INFO     [13, 32, 36, 37, 38, 43, 46, 54, 58, 62, 75, 76, 79, 82, 92, 93, 99, 106, 108, 114, 115, 117, 124, 131, 135, 138, 139, 141, 144, 148, 159, 162, 164, 167, 176, 179, 182, 192, 193, 199]
+[2021-05-06 03:34:56 KITTIloader2015.py:33] INFO     [13, 32, 36, 37, 38, 43, 46, 54, 58, 62, 75, 76, 79, 82, 92, 93, 99, 106, 108, 114, 115, 117, 124, 131, 135, 138, 139, 141, 144, 148, 159, 162, 164, 167, 176, 179, 182, 192, 193, 199]
+[2021-05-06 03:38:31 KITTIloader2015.py:33] INFO     [13, 32, 36, 37, 38, 43, 46, 54, 58, 62, 75, 76, 79, 82, 92, 93, 99, 106, 108, 114, 115, 117, 124, 131, 135, 138, 139, 141, 144, 148, 159, 162, 164, 167, 176, 179, 182, 192, 193, 199]
+[2021-05-06 03:44:17 KITTIloader2015.py:33] INFO     [13, 32, 36, 37, 38, 43, 46, 54, 58, 62, 75, 76, 79, 82, 92, 93, 99, 106, 108, 114, 115, 117, 124, 131, 135, 138, 139, 141, 144, 148, 159, 162, 164, 167, 176, 179, 182, 192, 193, 199]
+[2021-05-06 03:44:25 KITTIloader2015.py:33] INFO     [13, 32, 36, 37, 38, 43, 46, 54, 58, 62, 75, 76, 79, 82, 92, 93, 99, 106, 108, 114, 115, 117, 124, 131, 135, 138, 139, 141, 144, 148, 159, 162, 164, 167, 176, 179, 182, 192, 193, 199]
+[2021-05-06 17:04:10 KITTIloader2015.py:33] INFO     [13, 32, 36, 37, 38, 43, 46, 54, 58, 62, 75, 76, 79, 82, 92, 93, 99, 106, 108, 114, 115, 117, 124, 131, 135, 138, 139, 141, 144, 148, 159, 162, 164, 167, 176, 179, 182, 192, 193, 199]
+[2021-05-06 17:04:10 finetune.py:89] INFO     channels_3d: 4
+[2021-05-06 17:04:10 finetune.py:89] INFO     datapath: /home/zakariya/training/
+[2021-05-06 17:04:10 finetune.py:89] INFO     datatype: 2015
+[2021-05-06 17:04:10 finetune.py:89] INFO     epochs: 300
+[2021-05-06 17:04:10 finetune.py:89] INFO     evaluate: True
+[2021-05-06 17:04:10 finetune.py:89] INFO     growth_rate: [4, 1, 1]
+[2021-05-06 17:04:10 finetune.py:89] INFO     init_channels: 1
+[2021-05-06 17:04:10 finetune.py:89] INFO     layers_3d: 4
+[2021-05-06 17:04:10 finetune.py:89] INFO     loss_weights: [0.25, 0.5, 1.0, 1.0]
+[2021-05-06 17:04:10 finetune.py:89] INFO     lr: 0.0005
+[2021-05-06 17:04:10 finetune.py:89] INFO     max_disparity: 192
+[2021-05-06 17:04:10 finetune.py:89] INFO     maxdisp: 192
+[2021-05-06 17:04:10 finetune.py:89] INFO     maxdisplist: [12, 3, 3]
+[2021-05-06 17:04:10 finetune.py:89] INFO     nblocks: 2
+[2021-05-06 17:04:10 finetune.py:89] INFO     pretrained: checkpoint/kitti2015_ck/checkpoint.tar
+[2021-05-06 17:04:10 finetune.py:89] INFO     print_freq: 5
+[2021-05-06 17:04:10 finetune.py:89] INFO     resume: None
+[2021-05-06 17:04:10 finetune.py:89] INFO     save_path: results/kitti2015
+[2021-05-06 17:04:10 finetune.py:89] INFO     split_file: checkpoint/kitti2015_ck/split.txt
+[2021-05-06 17:04:10 finetune.py:89] INFO     spn_init_channels: 8
+[2021-05-06 17:04:10 finetune.py:89] INFO     start_epoch_for_spn: 121
+[2021-05-06 17:04:10 finetune.py:89] INFO     test_bsize: 8
+[2021-05-06 17:04:10 finetune.py:89] INFO     train_bsize: 6
+[2021-05-06 17:04:10 finetune.py:89] INFO     with_spn: True
+[2021-05-06 17:04:23 finetune.py:94] INFO     Number of model parameters: 43269
+[2021-05-06 17:04:23 finetune.py:101] INFO     => loaded pretrained model 'checkpoint/kitti2015_ck/checkpoint.tar'
+[2021-05-06 17:04:23 finetune.py:118] INFO     Not Resume
+[2021-05-06 17:04:28 finetune.py:212] INFO     [0/5] Stage 0 = 0.1490(0.1490)	Stage 1 = 0.1587(0.1587)	Stage 2 = 0.0930(0.0930)	Stage 3 = 0.0804(0.0804)
+[2021-05-06 17:04:28 finetune.py:212] INFO     [1/5] Stage 0 = 0.1267(0.1379)	Stage 1 = 0.1388(0.1487)	Stage 2 = 0.0991(0.0961)	Stage 3 = 0.0888(0.0846)
+[2021-05-06 17:04:28 finetune.py:212] INFO     [2/5] Stage 0 = 0.1204(0.1321)	Stage 1 = 0.1691(0.1555)	Stage 2 = 0.0983(0.0968)	Stage 3 = 0.0870(0.0854)
+[2021-05-06 17:04:28 finetune.py:212] INFO     [3/5] Stage 0 = 0.1099(0.1265)	Stage 1 = 0.1136(0.1450)	Stage 2 = 0.0686(0.0898)	Stage 3 = 0.0598(0.0790)
+[2021-05-06 17:04:28 finetune.py:212] INFO     [4/5] Stage 0 = 0.1946(0.1401)	Stage 1 = 0.2096(0.1580)	Stage 2 = 0.1449(0.1008)	Stage 3 = 0.1343(0.0901)
+[2021-05-06 17:04:28 finetune.py:215] INFO     Average test 3-Pixel Error = Stage 0=0.1401, Stage 1=0.1580, Stage 2=0.1008, Stage 3=0.0901
+[2021-05-07 14:10:38 KITTIloader2015.py:33] INFO     [13, 32, 36, 37, 38, 43, 46, 54, 58, 62, 75, 76, 79, 82, 92, 93, 99, 106, 108, 114, 115, 117, 124, 131, 135, 138, 139, 141, 144, 148, 159, 162, 164, 167, 176, 179, 182, 192, 193, 199]
+[2021-05-07 14:10:38 finetune.py:89] INFO     channels_3d: 4
+[2021-05-07 14:10:38 finetune.py:89] INFO     datapath: /home/zakariya/training/
+[2021-05-07 14:10:38 finetune.py:89] INFO     datatype: 2015
+[2021-05-07 14:10:38 finetune.py:89] INFO     epochs: 300
+[2021-05-07 14:10:38 finetune.py:89] INFO     evaluate: True
+[2021-05-07 14:10:38 finetune.py:89] INFO     growth_rate: [4, 1, 1]
+[2021-05-07 14:10:38 finetune.py:89] INFO     init_channels: 1
+[2021-05-07 14:10:38 finetune.py:89] INFO     layers_3d: 4
+[2021-05-07 14:10:38 finetune.py:89] INFO     loss_weights: [0.25, 0.5, 1.0, 1.0]
+[2021-05-07 14:10:38 finetune.py:89] INFO     lr: 0.0005
+[2021-05-07 14:10:38 finetune.py:89] INFO     max_disparity: 192
+[2021-05-07 14:10:38 finetune.py:89] INFO     maxdisp: 192
+[2021-05-07 14:10:38 finetune.py:89] INFO     maxdisplist: [12, 3, 3]
+[2021-05-07 14:10:38 finetune.py:89] INFO     nblocks: 2
+[2021-05-07 14:10:38 finetune.py:89] INFO     pretrained: checkpoint/kitti2015_ck/checkpoint.tar
+[2021-05-07 14:10:38 finetune.py:89] INFO     print_freq: 5
+[2021-05-07 14:10:38 finetune.py:89] INFO     resume: None
+[2021-05-07 14:10:38 finetune.py:89] INFO     save_path: results/kitti2015
+[2021-05-07 14:10:38 finetune.py:89] INFO     split_file: checkpoint/kitti2015_ck/split.txt
+[2021-05-07 14:10:38 finetune.py:89] INFO     spn_init_channels: 8
+[2021-05-07 14:10:38 finetune.py:89] INFO     start_epoch_for_spn: 121
+[2021-05-07 14:10:38 finetune.py:89] INFO     test_bsize: 8
+[2021-05-07 14:10:38 finetune.py:89] INFO     train_bsize: 6
+[2021-05-07 14:10:38 finetune.py:89] INFO     with_spn: True
+[2021-05-07 14:10:51 finetune.py:94] INFO     Number of model parameters: 43269
+[2021-05-07 14:10:51 finetune.py:101] INFO     => loaded pretrained model 'checkpoint/kitti2015_ck/checkpoint.tar'
+[2021-05-07 14:10:51 finetune.py:118] INFO     Not Resume
+[2021-05-07 14:10:55 finetune.py:212] INFO     [0/5] Stage 0 = 0.1490(0.1490)	Stage 1 = 0.1587(0.1587)	Stage 2 = 0.0930(0.0930)	Stage 3 = 0.0804(0.0804)
+[2021-05-07 14:10:55 finetune.py:212] INFO     [1/5] Stage 0 = 0.1267(0.1379)	Stage 1 = 0.1388(0.1487)	Stage 2 = 0.0991(0.0961)	Stage 3 = 0.0888(0.0846)
+[2021-05-07 14:10:56 finetune.py:212] INFO     [2/5] Stage 0 = 0.1204(0.1321)	Stage 1 = 0.1691(0.1555)	Stage 2 = 0.0983(0.0968)	Stage 3 = 0.0870(0.0854)
+[2021-05-07 14:10:56 finetune.py:212] INFO     [3/5] Stage 0 = 0.1099(0.1265)	Stage 1 = 0.1136(0.1450)	Stage 2 = 0.0686(0.0898)	Stage 3 = 0.0598(0.0790)
+[2021-05-07 14:10:56 finetune.py:212] INFO     [4/5] Stage 0 = 0.1946(0.1401)	Stage 1 = 0.2096(0.1580)	Stage 2 = 0.1449(0.1008)	Stage 3 = 0.1343(0.0901)
+[2021-05-07 14:10:56 finetune.py:215] INFO     Average test 3-Pixel Error = Stage 0=0.1401, Stage 1=0.1580, Stage 2=0.1008, Stage 3=0.0901
